@@ -1,5 +1,5 @@
 # Real-time-bus-tracker
-
+Highlighted bus routes using an animated marker for stops between harvard and MIT.
 MIT License
 
 Copyright (c) 2020 John Williams
